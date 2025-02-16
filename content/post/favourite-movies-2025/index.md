@@ -8,7 +8,7 @@ title = 'My Favourite Movies 2025'
 As you can tell from my rankings, indeed, I am a huge fan of Christopher Nolan's works. Undoubtedly, Nolan is definitely one of the best directors in 21st century. 
 - *"We live in a twilight world, and there are no friends at dusk."*
 - *"You have a future in the past - years ago for me, years from now for you."*
-- *"I will see you at the beginning" 
+- *"I will see you at the beginning"* 
 
 
 ## 2. Oppenheimer
