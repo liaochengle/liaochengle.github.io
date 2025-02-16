@@ -18,11 +18,11 @@ Now with shyness, now with jealousy being vexed;
 I loved you so sincerely, so fondly,     
 Likewise may someone love you next.
 
-Do I entice you? 
-Do I speak you fair? 
-Or, rather, do I not in plainest truth tell you 
+Do I entice you?   
+Do I speak you fair?  
+Or, rather, do I not in plainest truth tell you   
 I do not nor I cannot love you. 
 
-I sincerely hope we can be closer, if not, I must confess that I will always, always have feelings for you. I have liked you, for years.
+I sincerely hope we can be closer, if not, I must confess that I will always, always have feelings for you. I have liked you, for years 裴弈然. It's so long that I even forgot why I started at the first time, but that might be the point though, to admit that I still don't know.
 
 
