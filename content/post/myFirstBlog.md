@@ -16,6 +16,13 @@ I do not want to make you sad.
 I loved you hopelessly and mutely,    
 Now with shyness, now with jealousy being vexed;    
 I loved you so sincerely, so fondly,     
-Likewise may someone love you next.  
-	- Alexander Pushkin
+Likewise may someone love you next.
+
+Do I entice you? 
+Do I speak you fair? 
+Or, rather, do I not in plainest truth tell you 
+I do not nor I cannot love you. 
+
+I sincerely hope we can be closer, if not, I must confess that I will always, always have feelings for you. I have liked you, for years.
+
 
