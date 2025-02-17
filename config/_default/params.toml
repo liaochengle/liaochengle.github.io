@@ -19,7 +19,7 @@ subtitle = "Per aspera ad astra."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/IMG_9897.JPG"
 
 [article]
 headingAnchor = false
