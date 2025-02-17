@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "favourite-movies-2025/index.md",
+                "file": "myFirstBlog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "myFirstBlog"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "202814d33b0d5037",
   "lastOpenFiles": [
-    "myFirstBlog.md",
     "favourite-movies-2025/index.md",
+    "myFirstBlog.md",
     "Welcome.md",
     "favourite-movies-2025"
   ]
