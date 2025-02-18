@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "myFirstBlog",
-      "path": "myFirstBlog.md"
-    },
-    {
       "basename": "index",
       "path": "favourite-movies-2025/index.md"
+    },
+    {
+      "basename": "For you",
+      "path": "For you.md"
     }
   ],
   "omittedPaths": [],
