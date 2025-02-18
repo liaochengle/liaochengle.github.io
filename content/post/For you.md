@@ -8,10 +8,8 @@ title = 'For you.'
 
 ### **I**
 
-I could fly across half the world  
-Just to offer you “happy birthday.”  
-Yet something binds my lips,  
-And I cannot whisper, “happy Valentine’s Day.”  
+I could fly across half the world, just to offer you “happy birthday.”  
+Yet something binds my lips,  and I cannot whisper, “happy Valentine’s Day.”  
 
 ---
 
