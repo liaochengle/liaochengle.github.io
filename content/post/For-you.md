@@ -1,7 +1,7 @@
 +++
 date = '2025-02-14T18:18:14+08:00'
 draft = false
-title = 'For you.'
+title = 'For You.'
 +++
 
 ***Happy Valentine's Day***

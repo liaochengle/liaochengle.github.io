@@ -1,7 +1,7 @@
 +++
 date = '2025-02-14T10:54:23+08:00'
 draft = false
-title = 'For Myself'
+title = 'For Myself.'
 +++
 ### I
 I'm fifteen, almost sixteen, I've finally decided to start writing a blog--though it's really more of a personal journal for me than anything else. I've realized that I want to capture who I am right now, at this moment. Sometimes, I'm not sure if I miss the past itself, or it I miss who I was in the past. 

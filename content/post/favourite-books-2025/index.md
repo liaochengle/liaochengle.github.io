@@ -1,3 +1,8 @@
++++
+date = '2025-02-18T20:54:13+08:00'
+draft = false
+title = 'My Favourite Books 2025'
++++
 # 1. Story of Your Life    --*by Ted Chiang*
 - *我预见了所有悲伤，依然决定欣然前往*
 - *I foresee every sorrow, yet I proceed undaunted.*
