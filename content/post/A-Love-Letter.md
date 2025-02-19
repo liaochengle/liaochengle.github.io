@@ -37,9 +37,7 @@ I do not nor I cannot love you.
 
 ### **IV**
 
-I have carried these feelings for so long that I can no longer separate friendship from romance. Perhaps there is no true dividing line between them. I still wonder: did you ever sense that I cared for you? Could you possibly have harbored a trace of warmth for me too? Those questions hover in my mind, but I lack the courage to voice them. When will I see you again?
-
-It has been four years since we last spoke, and yet you remain vividly real. Your face rises before me at the quietest moments. I can pick you out of a crowd in the blurriest of photographs, even though I cannot recognize anyone else. I remember your walk, the way you wrote on the page, the tone of your voice—every detail. It feels foolish, doesn’t it? Worse still, there was a time I dated someone simply because he bore the slightest resemblance to you, and that was enough to captivate me. 
+It has been four years since we last spoke, and yet you remain vividly real. Your face rises before me at the quietest moments. I can pick you out of a crowd in the blurriest of photographs that I purposedly found on your school crimson, even though I cannot recognize anyone else. I remember your walk, the way you wrote on the page, the tone of your voice—every detail. It feels foolish, doesn’t it? Worse still, there was a time I dated someone simply because he bore the slightest resemblance to you, and that was enough to captivate me. 
 
 If fate ever lets us meet again, I don't know how I will behave. I imagine myself inviting you to lunch in some hidden corner of the city, or asking if you’d like to see *Oppenheimer* with me. Maybe we would talk about our middle school days: I’d want to hear all that has happened to you since we graduated four years ago. Maybe I would dare to share my own stories. Or maybe we would simply sit together on a bench, both wordless but comforted by each other’s presence.  
 
