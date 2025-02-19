@@ -1,11 +1,11 @@
 +++
 date = '2025-02-15T21:21:13+08:00'
 draft = false
-title = 'My Favourite Movies 2025'
+title = 'Tenet'
 +++
 
-## 1. Tenet
-As you can tell from my rankings, indeed, I am a huge fan of Christopher Nolan's works. Undoubtedly, Nolan is definitely one of the best directors in 21st century.  And I am going to be honest, **this post was indeed a love letter to Christopher Nolan**.
+## I
+Undoubtedly, Nolan is definitely one of the best directors in 21st century.  And I am going to be honest, **this post is indeed a love letter to Christopher Nolan**.
 
 ---
 - *We live in a twilight world, and there are no friends at dusk.*
