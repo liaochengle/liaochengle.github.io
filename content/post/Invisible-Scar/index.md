@@ -21,9 +21,6 @@ My blog has become my only sanctuary—the one place where honesty flows unrestr
 ### Lessons Learned:
 
 - Adopt egotistical utilitarianism: Protect yourself first and always.
-    
 - When facing authority—be it your mother now or your boss in the future—respond with neutrality, devoid of emotion, allowing them to bear the consequences of their decisions.
-    
 - Keep your opinions hidden, share no secrets with those who weaponize your honesty against you.
-    
 - Responsibility is burdensome—embrace detachment to preserve your peace.
